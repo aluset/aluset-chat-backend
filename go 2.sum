@@ -1,0 +1,4 @@
+github.com/sashabaranov/go-openai v1.11.0 h1:JrjKfzCqIBV15uq0Ht1pDwwt1m9oyjPYUKMZsXPBmqA=
+github.com/sashabaranov/go-openai v1.11.0/go.mod h1:rE7OqWx8yZ44Hoglh6xYV1gW8oGDRDFFkQ3ig9uM6J0=
+golang.org/x/net v0.9.0 h1:6ODboUbG7VPa1UBYV4cXOUL1BCl8+OKD6aBHeHgT75k=
+golang.org/x/net v0.9.0/go.mod h1:gpnoUZRNeqqjJe14fIsAwbHdvK7UgWxqTh0TC9V70P8=
